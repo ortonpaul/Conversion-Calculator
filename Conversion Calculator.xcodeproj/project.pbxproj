@@ -55,11 +55,11 @@
 			isa = PBXGroup;
 			children = (
 				DABA999C225EA55A0062FC63 /* AppDelegate.swift */,
+				DA80CFFE225EA6DE004E5ACD /* ConverterViewController.swift */,
 				DABA99A0225EA55A0062FC63 /* Main.storyboard */,
 				DABA99A3225EA55B0062FC63 /* Assets.xcassets */,
 				DABA99A5225EA55B0062FC63 /* LaunchScreen.storyboard */,
 				DABA99A8225EA55B0062FC63 /* Info.plist */,
-				DA80CFFE225EA6DE004E5ACD /* ConverterViewController.swift */,
 			);
 			path = "Conversion Calculator";
 			sourceTree = "<group>";
